@@ -1,7 +1,7 @@
 title: Faster
 originalAuthor: Shananas
 game: kh2
-description: Anytime the game speed is less than 1 (normal) make it 2 (double speed). speeds up daeths and boss kills.
+description: Anytime the game speed is less than 1 (Normal Speed) make it 2 (Double Speed). Speeds up deaths and boss kills. 
 assets:
 - name: scripts/Faster.lua
   method: copy
