@@ -31,9 +31,6 @@ elseif GAME_ID == 0x431219CC and ENGINE_TYPE == 'BACKEND' then --PC
 		print("Steam JP Version is outdated. Please update the game.")
 	end
 end
-if GameVersion ~= 0 then
-	Menu2  = Menu1 + NextMenu
-end
 end
 
 
